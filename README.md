@@ -1,7 +1,7 @@
 
 # 2024 HTTP Workshop
 
-**The sixth HTTP Workshop is on for 2024: 12-13 November in London.**
+**The sixth HTTP Workshop is on for 2024: 12-14 November in London.**
 
 This is a unique event; most of the time is unstructured, promoting unfiltered discussion among the major implementers and practitioners of HTTP. Each day will have a few "anchor" talks to stimulate discussion, but we expect attendees to drive most of the agenda.
 
