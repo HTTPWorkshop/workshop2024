@@ -65,9 +65,11 @@ September 2024**.
 
 ## Sponsors
 
-If you would like to sponsor a lunch, dinner, or social event, please contact [Mark Nottingham](mailto:mnot@mnot.net).
+Thanks to [Cloudflare](https://cloudflare.com) for sponsoring our venue.
 
 [![Cloudflare](asset/cloudflare.jpg)](https://cloudflare.com)
+
+*If you would like to sponsor a lunch, dinner, or social event, please contact [Mark Nottingham](mailto:mnot@mnot.net).*
 
 
 ## Program Committee
