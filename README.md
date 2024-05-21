@@ -52,8 +52,7 @@ Note that if necessary, we will limit representation from single companies and p
 
 All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the Workshop.
 
-Please [make a statement of interest using this form]() as soon as possible and no later than **1
-September 2024**.
+Please [make a statement of interest using this form](https://forms.office.com/r/izGmpi5NmJ) as soon as possible and no later than **1 September 2024**.
 
 
 ## Important Dates
