@@ -50,7 +50,7 @@ You can include as much or as little information as you like in it, but the more
 
 Note that if necessary, we will limit representation from single companies and projects to assure balanced participation.
 
-All attendees will be expected to adhere to the [Conference Code of Conduct](http://confcodeofconduct.com/). We will publish a summary of what happens at the Workshop.
+All attendees will be expected to adhere to the [Code of Conduct](https://httpworkshop.org/conduct). We will publish a summary of what happens at the Workshop.
 
 Please [make a statement of interest using this form](https://forms.office.com/r/izGmpi5NmJ) as soon as possible and no later than **1 September 2024**.
 
