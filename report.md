@@ -93,7 +93,7 @@ Workshop attendees in 2024 were:
 * Stefan Eissing (Independent)
 * Roy Fielding (Adobe)
 * Alan Frindell (Meta)
-* Nils Goroll UPLEX / Varnish Cache Project)
+* Nils Goroll (UPLEX / Varnish Cache Project)
 * Nidhi Jaju (Google)
 * Anne van Kesteren (Apple)
 * Eric Kinnear (Apple)
