@@ -16,7 +16,7 @@ For details, see the [presentations](talks/) along with Daniel Stenberg's summar
 
 Twenty participants responded to the post-Workshop feedback survey. Once again, they felt the workshop was a useful event, with all responses rating at 7 out of 10 or higher:
 
-![Chart of survey results](asset/q1.jpg)
+![Chart of survey results](asset/q1.png)
 
 When asked what the best aspect of the workshop was, we got responses such as:
 
