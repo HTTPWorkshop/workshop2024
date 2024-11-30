@@ -91,7 +91,7 @@ Workshop attendees in 2024 were:
 * Uttaran Dutta (Akamai)
 * Lars Eggert (Mozilla)
 * Stefan Eissing (Independent)
-* Roy Fielding (Adobe)
+* Roy Fielding (Adobe, PC)
 * Alan Frindell (Meta)
 * Nils Goroll UPLEX / Varnish Cache Project)
 * Nidhi Jaju (Google)
